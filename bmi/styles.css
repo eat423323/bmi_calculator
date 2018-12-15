@@ -1,0 +1,45 @@
+.form{
+  line-height: 2rem;
+  border: 5px solid #bbf495;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #f6f4bf;
+}
+
+select {
+  border: 1px solid grey;
+  border-radius: 4px;
+}
+
+input {
+  padding: 5px 10px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+#inch{
+  display: none;
+}
+
+.colors{
+  color: #ffffff;
+  border: 1px solid white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.red{
+  background-color: #750000;
+}
+
+.green{
+  background-color: green;
+}
+
+.yellow{
+  background-color: hsl(60, 100%, 48%);
+}
+
+.orange{
+  background-color: orange;
+}
